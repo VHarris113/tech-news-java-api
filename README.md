@@ -1,6 +1,6 @@
 # Title: TechNews Java Application
 
-##Table of Contents
+## Table of Contents
 - [Description](#description)
 - [Repository](#repository)
 - [Website](#website)
@@ -13,7 +13,6 @@
 
 ## Description
 It is a convenient Java run application that allows the user to sign-up, log-in, post, comment, and even vote on their posts about interesting articles within the tech community.
-![answers.title]();
 
 ## Repository
 [Repo](https://github.com/VHarris113/tech-news-java-api)
@@ -23,6 +22,8 @@ It is a convenient Java run application that allows the user to sign-up, log-in,
 
 ## Usage
 
+![Gif]()
+![Gif]()
 
 ## Installation
 git clone git@github.com:VHarris113/tech-news-java-api.git
@@ -35,6 +36,8 @@ Java, JavaScript, HTML, CSS, MySQL, Insomnia
 
 ## Support
 Please contact me via GitHub or my website here.
+[![Portfolio]()](https://vharris113.github.io/vharris-portfolio/)
+[![GitHub]()](https://github.com/VHarris113)
 
 
 ## Acknowledgements
