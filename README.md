@@ -1,1 +1,1 @@
-# tech-news-java-api
+# TechNews Java Application
